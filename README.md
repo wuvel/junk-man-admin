@@ -12,7 +12,8 @@ Download link: [Download](https://drive.google.com/file/d/1AWwC1o-dYxkUnwqcz1M3x
 - Make sure to use Bangkit's account to access the file.
 - Make sure to deploy the firebase on the VM machine, otherwise it won't work.
 
-
+## Resources
+- [YouTube](https://youtu.be/3dFT7QaVSZ8)
 
 
 
